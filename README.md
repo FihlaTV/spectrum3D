@@ -1,11 +1,11 @@
 # Electromagnetic wave simulation
-[Live version at cemsim.com](https://cemsim.com/)
+[Live version at cemsim.com](https://visar.co.za/#emwaves)
 
 An interactive web-based simulator of electromagnetic waves. Simulation done using the finite-difference time-domain method.
 
 ![](images/screenshot_lens.jpg)
 
-Found any bugs, have suggestions or anything else? Open an issue or [contact me](mailto:tora@warlock.ai).
+Found any bugs, have suggestions or anything else? Open an issue or [contact me](mailto:info@visar.co.za).
 
 Technology used among others: [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [regl](https://github.com/regl-project/regl).
 
