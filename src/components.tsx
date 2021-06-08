@@ -432,11 +432,11 @@ export function InfoBox(props: InfoBoxProps) {
             <div onClick={_ => props.setVisible(false)} style={{ position: "absolute", left: 0, right: 0, top: 0, bottom: 0, background: "rgba(0, 0, 0, 0.5)" }} />
             <div style={{ position: "absolute", backgroundColor: "rgb(30, 30, 30)", left: "50%", top: "50%", marginLeft: "-150px", marginTop: "-70px", width: "300px", height: "140px", textAlign: "center", padding: "10px", color: "white", fontWeight: "lighter" }}>
                 <div>
-                    Made by <a href="https://github.com/RobinKa" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }} rel="noopener noreferrer" target="_blank">Robin Kahlow</a>. If you have feedback, ideas for improvement, bug reports or anything else open an issue on <a href="https://github.com/RobinKa/maxwell-simulation/issues" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }} rel="noopener noreferrer" target="_blank">GitHub</a> or <a href="mailto:tora@warlock.ai?subject=EM simulation feedback" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }}>send an email to tora@warlock.ai</a>.
+                    Made by <a href="https://visar.co.za" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }} rel="noopener noreferrer" target="_blank">VISAR </a>. If you have feedback, ideas for improvement, bug reports or anything else open an issue on <a href="https://github.com/FihlaTV/spectrum3D/issues" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }} rel="noopener noreferrer" target="_blank">Website</a> or <a href="mailto:info@visar.co.za?subject=EM simulation feedback" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }}>send an email to tora@warlock.ai</a>.
                 </div>
                 <div style={{ marginTop: "5px" }}>
-                    <a href="https://github.com/RobinKa/maxwell-simulation" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }} rel="noopener noreferrer" target="_blank">
-                        Source code
+                    <a href="https://github.com/FihlaTV/spectrum3D" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }} rel="noopener noreferrer" target="_blank">
+                        Explanation
                     </a>
                 </div>
                 <div style={{ marginTop: "5px" }}>
