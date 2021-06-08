@@ -1,5 +1,5 @@
 # Electromagnetic wave simulation
-[Live version at cemsim.com](https://visar.co.za/#emwaves)
+[Live version at VISAR](https://visar.co.za/#emwaves)
 
 An interactive web-based simulator of electromagnetic waves. Simulation done using the finite-difference time-domain method.
 
