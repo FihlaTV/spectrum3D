@@ -435,7 +435,7 @@ export function InfoBox(props: InfoBoxProps) {
                     Made by <a href="https://visar.co.za" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }} rel="noopener noreferrer" target="_blank">VISAR </a>. If you have feedback, ideas for improvement, bug reports or anything else open an issue on <a href="https://github.com/FihlaTV/spectrum3D/issues" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }} rel="noopener noreferrer" target="_blank">Website</a> or <a href="mailto:info@visar.co.za?subject=EM simulation feedback" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }}>send an email to info@visar.co.za</a>.
                 </div>
                 <div style={{ marginTop: "5px" }}>
-                    <a href="https://github.com/FihlaTV/spectrum3D" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }} rel="noopener noreferrer" target="_blank">
+                    <a href="https://github.com/FihlaTV/spectrum3D/blob/master/README.md#how-the-simulation-works--an-intro-to-simulating-maxwells-equations" style={{ textDecoration: "none", color: "rgb(0, 150, 255)" }} rel="noopener noreferrer" target="_blank">
                         Explanation
                     </a>
                 </div>
